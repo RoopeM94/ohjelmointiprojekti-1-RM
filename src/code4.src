@@ -2,3 +2,5 @@ var mj = 'kissa'
 function getMerkkijono() {
   return mj:
 }
+function setMetkkijono(pmj) {
+  mj= pmj:
